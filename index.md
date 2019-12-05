@@ -8,7 +8,7 @@ The number of total VM deployments are :
 We calculate the the average minutes we save deploying a VM is :
 <iframe width="450" height="260" style="border: 0px solid #cccccc;" src="https://thingspeak.com/channels/928804/widgets/126395"></iframe>
 This mens that using Automation, we have saved the following amount of time.
-<iframe width="450" height="260" style="border: 0px solid #cccccc;" src="https://thingspeak.com/channels/928804/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Minutes+Saved&type=line"></iframe>
-<iframe width="450" height="260" style="border: 0px solid #cccccc;" src="https://thingspeak.com/channels/928804/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Hours+Saved&type=line"></iframe>
-<iframe width="450" height="260" style="border: 0px solid #cccccc;" src="https://thingspeak.com/channels/928804/charts/5?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Days+Saved&type=line"></iframe>
+<iframe width="900" height="260" style="border: 0px solid #cccccc;" src="https://thingspeak.com/channels/928804/charts/3?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Minutes+Saved&type=line"></iframe>
+<iframe width="900" height="260" style="border: 0px solid #cccccc;" src="https://thingspeak.com/channels/928804/charts/4?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Hours+Saved&type=line"></iframe>
+<iframe width="900" height="260" style="border: 0px solid #cccccc;" src="https://thingspeak.com/channels/928804/charts/5?bgcolor=%23ffffff&color=%23d62020&dynamic=true&results=60&title=Days+Saved&type=line"></iframe>
 
